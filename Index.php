@@ -10,9 +10,10 @@
 <body>
 <h1>
     <?php
-
+        echo "Hello man";
        phpinfo();
     ?>
+
 </h1>
 
 </body>
